@@ -1,1 +1,3 @@
-printf("hello");
+include <stdio.h>
+main(){
+printf("hello");}
